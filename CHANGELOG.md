@@ -1,19 +1,5 @@
 # Changelog
 
-# Changelog
-
-## [9.9.9] (2025-11-26)
-
-### ⚠️ 维护状态说明
-
-- 本版本标记为最终版本，插件已正式停止维护。
-- 原因：
-  1. 学业压力增大，作者时间与精力有限。
-  2. 同类插件 kmind 已覆盖全部功能且维护更积极，继续开发缺乏意义；尽管 kmind 为付费插件，但功能强大、物有所值。
-- 代码仓库会永久保留，当前版本可无限期使用，欢迎自行 Fork 或二次开发。
-- 已经捐赠的用户可添加微信 `ebAobS`，附上捐赠截图申请退款。
-- 若有人希望接手维护，可同样通过微信联系，作者会免费转让。
-
 ## [1.0.4] (2025-10-07)
 
 ### 🐛 Bug Fixes
@@ -239,12 +225,11 @@ MIT License
 
 ### 📮 反馈与贡献
 
-- **项目地址**：[GitHub Repository](https://github.com/ebAobS/mymind)
-- **问题反馈**：[GitHub Issues](https://github.com/ebAobS/mymind/issues)
-- **联系方式**：微信 ebAobS
+- **项目地址**：[GitHub Repository](https://github.com/RongjiLi6730/mymind-mind-map)
+- **问题反馈**：[GitHub Issues](https://github.com/RongjiLi6730/mymind-mind-map/issues)
 
 ---
 
 **发布日期**：2025-10-06  
 **版本号**：v1.0.0  
-**作者**：ebAobS
+**维护者**：RongjiLi6730
